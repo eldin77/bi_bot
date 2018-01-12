@@ -2,25 +2,25 @@
 
 ## bi_bot
 * api key 입력
-__set api_key: <key>
-__set api_securet_key: <sec_key>
+  - set api_key: <key>
+  - set api_securet_key: <sec_key>
 
 * 관심 coin 등록
-__관심 : coin or coin list
+  - 관심 : coin or coin list
 
 * 요청 관심코인의 현재 시세
-__얼마야 : 관심이 등록되어있으면 등록된것만
-__얼마야 NEO : neo 시세 표시
+  - 얼마야 : 관심이 등록되어있으면 등록된것만
+  - 얼마야 NEO : neo 시세 표시
 
 * 알람 설정
-__알람 <이름> 상승: <퍼센트> 하락:<퍼센트> <주기>
-____ex) 알람 네오 10 10 1
-__상승일때 Neo가 매수 비용의 27%이상 상승하였습니다.
-__하락일때 Neo가 매수 비용의 12%이상 하락하였습니다.
+  - 알람 <이름> 상승: <퍼센트> 하락:<퍼센트> <주기>
+  - ex) 알람 네오 10 10 1
+  - 상승일때 Neo가 매수 비용의 27%이상 상승하였습니다.
+  - 하락일때 Neo가 매수 비용의 12%이상 하락하였습니다.
 
 * api key 삭제
-__logout or 키없애 or 키지워(api delete)
+  - logout or 키없애 or 키지워(api delete)
 
 * 알람 제거
-__ 전체알람삭제
+  - 전체알람삭제
 
